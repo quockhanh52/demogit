@@ -9,3 +9,15 @@ function changeContent()
 			d2[1].innerHTML = "Row in table";
 			
 		}dasdsadsadasd
+d1[1].innerHTML = "Row in table";
+			d2[0].innerHTML = "Row in table";
+			d2[1].innerHTML = "Row in table";
+d1[1].innerHTML = "Row in table";
+			d2[0].innerHTML = "Row in table";
+			d2[1].innerHTML = "Row in table";
+d1[1].innerHTML = "Row in table";
+			d2[0].innerHTML = "Row in table";
+			d2[1].innerHTML = "Row in table";
+d1[1].innerHTML = "Row in table";
+			d2[0].innerHTML = "Row in table";
+			d2[1].innerHTML = "Row in table";
