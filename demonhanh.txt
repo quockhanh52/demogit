@@ -1,1 +1,3 @@
 cau lenh dau tien de test nhanh
+
+cau lenh 2 la chuan bi merge nhanh
