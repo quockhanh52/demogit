@@ -22,17 +22,10 @@ d1[1].innerHTML = "Row in table";
 			d2[0].innerHTML = "Row in table";
 			d2[1].innerHTML = "Row in table";
 
-sdihsafgdhusagfiusagfguasfa
-siodhaiosfghioasghfsaohpf
-
-adadr4234543565456457ggdfg
+111111111111111
 
 
 
-
-23423423413
-dssadasdasdsadasdsad
-
-qweeqwe42324234
-
-asdsad3432423423
+thay doi file nm.txt
+23242342354353123123
+321321432423453534543
