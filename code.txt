@@ -25,3 +25,21 @@ test lenh git stash
 		}
 	
 	</script>
+
+code ve lenh git stash
+<script language="javascript">
+		function createTable(m,n)
+		{
+		   for(var r=0;r<m;r++)
+			{
+			 var x=document.getElementById('table2').insertRow(r);
+			 for(var c=0;c<n;c++)  
+			  {
+			   var y=  x.insertCell(c);
+			   y.innerHTML="Row-"+r+" Column-"+c; 
+			  }
+			 }
+		  }
+	</script>
+aaaaaahhhhhhhhhhhhhh123456789
+lkahdhaioweoirewiorweh
