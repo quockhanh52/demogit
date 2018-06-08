@@ -1,11 +1,7 @@
 day la file chua code 
 
-idifaidadihadhaohda
-disadiasiofisafasihf
-ioadiosadsadoasdhsa
 
-them thong tin de push
-213214234234234
+
 
 thong tin add, commit, push file
 opadajdjadojpadjpasojdpjas
@@ -15,4 +11,17 @@ aaaaaaaaa1111111111
 bbbbbbbbb2222222222
 ccccccccc3333333333
 
-ddddddddd55555555555
+test lenh git stash
+<script language="javascript">
+		function changeContent()
+		{
+			var d1 = document.getElementById("myTable").rows[0].cells;
+			var d2 = document.getElementById("myTable").rows[1].cells;
+			d1[0].innerHTML = "Row in table";
+			d1[1].innerHTML = "Row in table";
+			d2[0].innerHTML = "Row in table";
+			d2[1].innerHTML = "Row in table";
+			
+		}
+	
+	</script>
